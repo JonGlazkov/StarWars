@@ -6,7 +6,7 @@
 
 
 ![Resultado do projeto finalizado](https://github.com/JonGlazkov/StarWars/blob/main/starwars/src/assets/starwars-finalizado.png)
-
+<h4 align="center"><a href="https://star-wars-phi-two.vercel.app">Clique para visitar o projeto</a></h4>
 
 
 ---
