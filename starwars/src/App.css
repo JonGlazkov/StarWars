@@ -10,8 +10,7 @@
 }
 
 body {
-  background-color: hsl(0,0,5%);
-
+  background-color: hsl(0, 0, 5%);
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
-
-
